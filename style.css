@@ -132,3 +132,9 @@ body {
     transform: scale(1);
   }
 }
+
+@media(max-width: 425px) {
+  .wrapper {
+    transform: scale(0.85);
+  }
+}
